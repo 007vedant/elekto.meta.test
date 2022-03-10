@@ -5,3 +5,7 @@ The new voting and elections application is almost ready, which means it's time 
 ## Election Period
 
 This test election starts March 9th at 04:30 UTC, and ends March 9th at 05:00 UTC. Don't forget to vote!
+
+## Testing if markdown works well
+
+### Testing for smaller fonts
