@@ -1,7 +1,7 @@
 name: Select Best Tech Frameworks
 organization: Web_Org
 start_datetime: 2022-03-28 06:45:00
-end_datetime: 2022-04-09 06:00:00
+end_datetime: 2022-04-04 06:00:00
 no_winners: 1
 allow_no_opinion: True
 delete_after: False
@@ -11,4 +11,4 @@ election_officers:
   - 007vedant
 eligibility: Contributors to the elections software project are eligible.
 exception_description: If you're not a contributor and want to vote on this anyway, file for an exception.
-exceptions_due: 2022-04-09 06:00:00
+exceptions_due: 2022-04-04 06:00:00
